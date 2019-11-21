@@ -1073,6 +1073,70 @@ pokemon:
     tertiary: '#600060'
     unibody: '#32A1E4'
 
+  # LOL
+  # 259
+  ahri1:
+    primary: '#C694A0'
+    secondary: '#A41020'
+    tertiary: '#104A8B'
+    unibody: '#F6D9D1'
+
+  # 260
+  ahri2:
+    primary: '#4A9CA7'
+    secondary: '#1C070A'
+    tertiary: '#FFCF00'
+    unibody: '#D14353'
+
+  # 261
+  ahri3:
+    primary: '#EC1D23'
+    secondary: '#000000'
+    tertiary: '#009BFF'
+    unibody: '#FFFFFF'
+
+  # 262
+  ahri4:
+    primary: '#246F96'
+    secondary: '#151F29'
+    tertiary: '#5F6973'
+    unibody: '#73A9DB'
+
+  # 263
+  ahri5:
+    primary: '#DE6339'
+    secondary: '#000000'
+    tertiary: '#006FB2'
+    unibody: '#F4F1F8'
+
+  # 264
+  ahri6:
+    primary: '#EF735B'
+    secondary: '#43B28F'
+    tertiary: '#BB4477'
+    unibody: '#4B294A'
+
+  # 267
+  ahriarcade:
+    primary: '#040607'
+    secondary: '#4B1F44'
+    tertiary: '#FFD0F7'
+    unibody: '#CB91C1'
+
+  # 268
+  ahriarcade2:
+    primary: '#E0A142'
+    secondary: '#05182A'
+    tertiary: '#600060'
+    unibody: '#32A1E4'
+
+  # 269
+  ahrinurse:
+    primary: '#BE5B55'
+    secondary: '#532924'
+    tertiary: '#EAD3D1'
+    unibody: '#D3675A'
+
 ##
 # Default values
 ##
