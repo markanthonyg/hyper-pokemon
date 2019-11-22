@@ -1,21 +1,18 @@
 <h1 align="center">
-  <img src="media/logo.png" width="28%"><br/>Hyper Pokemon
+  <img src="media/logo.png" width="28%"><br/>Hyper League of Legends
 </h1>
 
 <h4 align="center">
-  Tailor-made Pokémon themes for your Hyper terminal
+  Tailor-made LOL themes for your Hyper League of Legends
 </h4>
 
 <div align="center">
-      <a href="https://github.com/klaussinani/hyper-pokemon">
-        <img src="media/screen.png" alt="Hyper Pokemon" width="95%">
+      <a href="https://github.com/markanthonyg/hyper-pokemon">
+        <img src="media/ahriscreen.png" alt="Hyper LOL" width="95%">
       </a>
 </div>
 
 <p align="center">
-  <a href="https://travis-ci.org/klaussinani/hyper-pokemon">
-    <img alt="Build Status" src="https://travis-ci.org/klaussinani/hyper-pokemon.svg?branch=master">
-  </a>
   <a href="https://github.com/bnb/awesome-hyper">
     <img alt="npm" src="https://awesome.re/mentioned-badge.svg">
   </a>
@@ -34,27 +31,12 @@
 
 ## Description
 
-Made for Pokémon enthusiasts by Pokémon enthusiasts.
+Made for LOL enthusiasts by LOL enthusiasts.
 
-All of the wonderful Pokémon backgrounds were created by the amazing [Teej/TopHat](https://pldh.net/gallery/the493), [MapleRose](https://twitter.com/PokeWalls) & [Ferretdayo](http://ferretdayo.github.io).
 
-Come over to [Gitter](https://gitter.im/klaussinani/hyper-pokemon) or [Twitter](https://twitter.com/klaussinani) to share your thoughts on the project.
+## Vote the next Champion
 
-Visit the [contributing guidelines](https://github.com/klaussinani/hyper-pokemon/blob/master/contributing.md#translating-documentation) to learn more on how to translate this document into more languages.
-
-## Vote the next Region
-
-Vote for the Pokémon Region you want to see themes from next.<br/>
-In essence, this poll will determine the creation order of all Pokémon Regions.<br/>
-The poll will be kept alive until the project's completion, when all **600+** themes will be available.
-
-[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BMH8W2ETBFXQ9H6PSS0X9VZ8/Johto)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BMH8W2ETBFXQ9H6PSS0X9VZ8/Johto/vote)
-[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BMH8W2ETBFXQ9H6PSS0X9VZ8/Hoenn)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BMH8W2ETBFXQ9H6PSS0X9VZ8/Hoenn/vote)
-[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BMH8W2ETBFXQ9H6PSS0X9VZ8/Sinnoh)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BMH8W2ETBFXQ9H6PSS0X9VZ8/Sinnoh/vote)
-[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BMH8W2ETBFXQ9H6PSS0X9VZ8/Unova)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BMH8W2ETBFXQ9H6PSS0X9VZ8/Unova/vote)
-[![](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BMH8W2ETBFXQ9H6PSS0X9VZ8/Kalos)](https://m131jyck4m.execute-api.us-west-2.amazonaws.com/prod/poll/01BMH8W2ETBFXQ9H6PSS0X9VZ8/Kalos/vote)
-
-<sub>Poll powered by [tj/gh-polls](https://github.com/tj/gh-polls)</sub>
+Vote for the Champion you want to see themes from next.<br/>
 
 ## Install
 
@@ -95,7 +77,7 @@ config: {
     colors: {
     //...
     },
-    pokemon: 'gengar', // Choose your favorite pokemon theme
+    pokemon: 'ahriarcade', // Choose your favorite lol theme
     unibody: 'true', // Choose the color of the window header
     poketab: 'false', // Deactivate your theme's poketab
     //...
