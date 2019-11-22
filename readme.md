@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="media/logo.png" width="28%"><br/>Hyper League of Legends
+  <img src="media/ahridynastylogo.png" width="28%"><br/>Hyper League of Legends
 </h1>
 
 <h4 align="center">
