@@ -1136,6 +1136,13 @@ pokemon:
     secondary: '#532924'
     tertiary: '#EAD3D1'
     unibody: '#D3675A'
+    
+      # 270
+  ahri7:
+    primary: '#fff'
+    secondary: '#fff'
+    tertiary: '#B2454B'
+    unibody: '#307BA5'
 
 ##
 # Default values
